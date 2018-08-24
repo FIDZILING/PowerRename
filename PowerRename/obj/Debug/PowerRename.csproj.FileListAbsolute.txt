@@ -1,0 +1,16 @@
+X:\vs\Source\Workspace\PowerRename\PowerRename\bin\Debug\PowerRename.exe.config
+X:\vs\Source\Workspace\PowerRename\PowerRename\bin\Debug\PowerRename.exe.manifest
+X:\vs\Source\Workspace\PowerRename\PowerRename\bin\Debug\PowerRename.application
+X:\vs\Source\Workspace\PowerRename\PowerRename\bin\Debug\PowerRename.exe
+X:\vs\Source\Workspace\PowerRename\PowerRename\bin\Debug\PowerRename.pdb
+X:\vs\Source\Workspace\PowerRename\PowerRename\obj\Debug\PowerRename.csprojResolveAssemblyReference.cache
+X:\vs\Source\Workspace\PowerRename\PowerRename\obj\Debug\PowerRename.AboutForm.resources
+X:\vs\Source\Workspace\PowerRename\PowerRename\obj\Debug\PowerRename.MainForm.resources
+X:\vs\Source\Workspace\PowerRename\PowerRename\obj\Debug\PowerRename.Properties.Resources.resources
+X:\vs\Source\Workspace\PowerRename\PowerRename\obj\Debug\PowerRename.RenameForm.resources
+X:\vs\Source\Workspace\PowerRename\PowerRename\obj\Debug\PowerRename.csproj.GenerateResource.Cache
+X:\vs\Source\Workspace\PowerRename\PowerRename\obj\Debug\PowerRename.csproj.CoreCompileInputs.cache
+X:\vs\Source\Workspace\PowerRename\PowerRename\obj\Debug\PowerRename.exe.manifest
+X:\vs\Source\Workspace\PowerRename\PowerRename\obj\Debug\PowerRename.application
+X:\vs\Source\Workspace\PowerRename\PowerRename\obj\Debug\PowerRename.exe
+X:\vs\Source\Workspace\PowerRename\PowerRename\obj\Debug\PowerRename.pdb
